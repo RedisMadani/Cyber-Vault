@@ -1,10 +1,11 @@
 # Categories
-- [Books](#Books)
-- [Educational Courses](#Educational-Courses)
-- [Events & Networking](#Events-and-Networking)
-- [Hands-on Training](#Hands-on-Training)
-- [News & Media](#News-and-Media)
-- [Resources & Tools](#Resources-and-Tools)
+- [Books](#books)
+- [Educational Courses](#educational-courses)
+- [Events & Networking](#events--networking)
+- [Hands-on Training](#hands-on-training)
+- [News & Media](#news--media)
+- [Resources & Tools](#resources--tools)
+- [Contributions](#contributions)
 
 # Books
 
