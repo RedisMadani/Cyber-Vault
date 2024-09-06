@@ -1,10 +1,10 @@
 # Categories
 - [Books](#books)
 - [Educational Courses](#educational-courses)
-- [Events & Networking](#events--networking)
+- [Events & Networking](#events-and-networking)
 - [Hands-on Training](#hands-on-training)
-- [News & Media](#news--media)
-- [Resources & Tools](#resources--tools)
+- [News & Media](#news-and-media)
+- [Resources & Tools](#resources-and-tools)
 - [Contributions](#contributions)
 
 # Books
@@ -702,3 +702,7 @@ Additional useful tools and resources:
   Pentesting labs to improve your practical skills.
 - **[PentesterLab](https://pentesterlab.com/)**  
   Exercises to learn how to discover and exploit vulnerabilities.
+
+# Contributions
+
+This repository is a compilation of various sources and contributions from the cybersecurity community. You are welcome to contribute by adding, updating, or removing any resources that may be helpful for others. Whether you're an expert or a newcomer, your input is appreciated. Please feel free to submit a pull request or open an issue if you'd like to improve the content of this directory.
