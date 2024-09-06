@@ -243,39 +243,92 @@ Hands-on platforms offering Capture the Flag (CTF) challenges or specialized lab
 Stay informed about key cybersecurity events and opportunities for professional networking.
 
 ## Conferences
-- [DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN CONFERENCE LISTING. DFIRDIVA MAINTAINS A GREAT SITE THAT INCLUDES CONFERENCE LISTING. PLEASE REFER THERE FOR THIS TYPE OF INFORMATION. https://dfirdiva.com/free-and-affordable-training](DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN CONFERENCE LISTING. DFIRDIVA MAINTAINS A GREAT SITE THAT INCLUDES CONFERENCE LISTING. PLEASE REFER THERE FOR THIS TYPE OF INFORMATION. https://dfirdiva.com/free-and-affordable-training)
-- [* **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k](* **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k)
-- [DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LISTING. DFIRDIVA MAINTAINS A GREAT SITE THAT INCLUDES FREE TRAINING LISTINGS. PLEASE REFER THERE FOR THIS TYPE OF INFORMATION. https://dfirdiva.com/free-and-affordable-training](DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LISTING. DFIRDIVA MAINTAINS A GREAT SITE THAT INCLUDES FREE TRAINING LISTINGS. PLEASE REFER THERE FOR THIS TYPE OF INFORMATION. https://dfirdiva.com/free-and-affordable-training)
+
+- **DFIR Diva Conference Listings**  
+  Due to other commitments, this list is no longer maintained. For up-to-date conference information, please refer to DFIR Diva's great resource on free and affordable training and conferences.  
+  [DFIR Diva Conference Listings](https://dfirdiva.com/free-and-affordable-training)
+
+- **SummerCon 2020** (Archived)  
+  One of the oldest hacker conventions in the U.S., known for setting the precedent for cons like H.O.P.E. and DEF CON.  
+  [Watch the archived event](https://youtu.be/uVbrxMTrp0k)
 
 ## Discord and Slack (Networking and Communication Opportunities)
-- [* **Binary Ninja Slack** This is a channel dedicated to reverse engineering. Reverse engineering also called back engineering is the processes of extracting knowledge or design information from anything man-made and reproducing it or reproducing anything based on the extracted information the process often involves disassembling something a mechanical device electronic component computer program or biological chemical or organic matter and analysing its components and workings in detail. https://slackin-sbhuzyheck.now.sh/](* **Binary Ninja Slack** This is a channel dedicated to reverse engineering. Reverse engineering also called back engineering is the processes of extracting knowledge or design information from anything man-made and reproducing it or reproducing anything based on the extracted information the process often involves disassembling something a mechanical device electronic component computer program or biological chemical or organic matter and analysing its components and workings in detail. https://slackin-sbhuzyheck.now.sh/)
-- [* **BlackHills Information Security Discord** https://discord.gg/FWykjNy](* **BlackHills Information Security Discord** https://discord.gg/FWykjNy)
-- [* **CentralSec Slack** This is a community of people who are into everything in information security. https://launchpass.com/centralsec](* **CentralSec Slack** This is a community of people who are into everything in information security. https://launchpass.com/centralsec)
-- [* **DERPCON** Discord - https://discord.gg/invite/859Zvrm](* **DERPCON** Discord - https://discord.gg/invite/859Zvrm)
-- [* **DFIR Community** Security folks interested in Digital Forensics & Incident Response. https://rishi28.typeform.com/to/sTbTI8](* **DFIR Community** Security folks interested in Digital Forensics & Incident Response. https://rishi28.typeform.com/to/sTbTI8)
-- [* **GRIMM Con - Public** Discord https://discord.gg/bDdgyaV](* **GRIMM Con - Public** Discord https://discord.gg/bDdgyaV)
-- [* **InfoSecJobs** Discord https://invite.infosecjobs.xyz/](* **InfoSecJobs** Discord https://invite.infosecjobs.xyz/)
-- [* **Metasploit Official Public** Slack https://metasploit.com/slack](* **Metasploit Official Public** Slack https://metasploit.com/slack)
-- [* **OWASP** (Slack) The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.  https://owasp.slack.com/](* **OWASP** (Slack) The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.  https://owasp.slack.com/)
-- [* **Penetration Testers Slack** This is a group of ethical hackers and you’re most welcome to this channel if you wanted to start pentesting and find the vulnerabilities and exploits on any website or app and get more help from the fellow members of the channel. https://pentestpractice.slack.com/](* **Penetration Testers Slack** This is a group of ethical hackers and you’re most welcome to this channel if you wanted to start pentesting and find the vulnerabilities and exploits on any website or app and get more help from the fellow members of the channel. https://pentestpractice.slack.com/)
-- [* **Security HQ Slack** SecurityHQ is a channel most welcoming for all the security professionals and every newbie who wanted to build a career on Information Security or Cyber Security is most welcome to this channel. https://securityhq.herokuapp.com/](* **Security HQ Slack** SecurityHQ is a channel most welcoming for all the security professionals and every newbie who wanted to build a career on Information Security or Cyber Security is most welcome to this channel. https://securityhq.herokuapp.com/)
-- [* **The Cyber Mentor** Discord https://discord.com/invite/REfpPJB](* **The Cyber Mentor** Discord https://discord.com/invite/REfpPJB)
 
-## (Virtual) Meetups
-- [* **Cybersecurity Mentoring Hub** Global session conducted over webex with a discussion/presentation on cybersecurity topic from within the community. Regular shoutouts on LinkedIn. https://cybersecmentorship.org/](* **Cybersecurity Mentoring Hub** Global session conducted over webex with a discussion/presentation on cybersecurity topic from within the community. Regular shoutouts on LinkedIn. https://cybersecmentorship.org/)
-- [* **MeetCyber** Regular sessions conducted over crowdcast, can be a training or a workshop, excellent networking and learning opportunities. https://meetcyber.net/](* **MeetCyber** Regular sessions conducted over crowdcast, can be a training or a workshop, excellent networking and learning opportunities. https://meetcyber.net/)
+- **Binary Ninja Slack**  
+  Focused on reverse engineering and back engineering processes.  
+  [Join Binary Ninja Slack](https://slackin-sbhuzyheck.now.sh)
+
+- **BlackHills Information Security Discord**  
+  A community dedicated to information security.  
+  [Join BlackHills InfoSec Discord](https://discord.gg/FWykjNy)
+
+- **CentralSec Slack**  
+  A community of individuals interested in all things infosec.  
+  [Join CentralSec Slack](https://launchpass.com/centralsec)
+
+- **DERPCON Discord**  
+  A platform for cybersecurity discussions and networking.  
+  [Join DERPCON Discord](https://discord.gg/invite/859Zvrm)
+
+- **DFIR Community**  
+  A space for security professionals interested in Digital Forensics and Incident Response.  
+  [Join DFIR Community](https://rishi28.typeform.com/to/sTbTI8)
+
+- **GRIMM Con Public Discord**  
+  A public channel for cybersecurity enthusiasts.  
+  [Join GRIMM Con Discord](https://discord.gg/bDdgyaV)
+
+- **InfoSecJobs Discord**  
+  A community focused on cybersecurity job opportunities.  
+  [Join InfoSecJobs Discord](https://invite.infosecjobs.xyz)
+
+- **Metasploit Official Public Slack**  
+  For discussions related to the Metasploit framework.  
+  [Join Metasploit Slack](https://metasploit.com/slack)
+
+- **OWASP Slack**  
+  The Open Web Application Security Project community.  
+  [Join OWASP Slack](https://owasp.slack.com)
+
+- **Penetration Testers Slack**  
+  For ethical hackers and penetration testers seeking advice and collaboration.  
+  [Join Penetration Testers Slack](https://pentestpractice.slack.com)
+
+- **Security HQ Slack**  
+  Welcoming all security professionals and those new to the field.  
+  [Join Security HQ Slack](https://securityhq.herokuapp.com)
+
+- **The Cyber Mentor Discord**  
+  A community led by The Cyber Mentor, focused on cybersecurity and ethical hacking.  
+  [Join The Cyber Mentor Discord](https://discord.com/invite/REfpPJB)
+
+## Virtual Meetups
+
+- **Cybersecurity Mentoring Hub**  
+  Global sessions conducted over Webex, featuring discussions and presentations on cybersecurity topics.  
+  [Join Cybersecurity Mentoring Hub](https://cybersecmentorship.org)
+
+- **MeetCyber**  
+  Regular sessions, including trainings and workshops, offering excellent networking and learning opportunities.  
+  [Join MeetCyber](https://meetcyber.net)
 
 ## Webinars
 
 - **Blackhat Webcast Series**  
-  [Monthly webcast of cyber topics](https://www.blackhat.com/html/webcast/webcast-home.html)
+  Monthly webcasts covering various cybersecurity topics.  
+  [Blackhat Webcast](https://www.blackhat.com/html/webcast/webcast-home.html)
+
 - **Chief Information Security Officer (CISO) Workshop**  
-  [Microsoft security teams experiences](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop)
+  Insights from Microsoft's security teams.  
+  [CISO Workshop](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop)
+
 - **OnRamp 101-Level ICS Security Workshop**  
-  [5-week series](https://onramp-3.s4xevents.com)
+  A 5-week series on ICS security.  
+  [OnRamp ICS Workshop](https://onramp-3.s4xevents.com)
+
 - **Stanford University Webinars**  
-  - ["Hacked! Security Lessons from Big Name Breaches"](https://www.youtube.com/watch?v=V9agUAz0DwI)  
-  - ["Hash, Hack, Code: Emerging Trends in Cyber Security"](https://www.youtube.com/watch?v=544rhbcDtc8)
+  - [Hacked! Security Lessons from Big Name Breaches](https://www.youtube.com/watch?v=V9agUAz0DwI)  
+  - [Hash, Hack, Code: Emerging Trends in Cyber Security](https://www.youtube.com/watch?v=544rhbcDtc8)
 
 # Hands-on Training
 
